@@ -11,6 +11,7 @@ cd <workdir>
 git clone https://github.com/atrox3d/yoman-gulp-angular.git
 cd yoman-gulp-angular
 npm install
+bower install
 grunt
 grunt serve
 ```
