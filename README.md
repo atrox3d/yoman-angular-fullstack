@@ -15,3 +15,5 @@ bower install
 grunt
 grunt serve
 ```
+
+test git
